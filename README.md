@@ -1,6 +1,5 @@
 # Subconverter
 Script Subconverter untuk Generate Config Surfboard
-+ Generate Config Vmess WS port 80
 
 # Install
 1. Pastikan app Termux sudah terinstall
