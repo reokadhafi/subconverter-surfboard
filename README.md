@@ -13,5 +13,5 @@ Script Subconverter untuk Generate Config Surfboard
 Jika tahap persiapan sudah beres selanjutnya jalankan subconverternya
 # Tutorial Penggunaan
 1. Jalankan subconverter.py di termux 
-   + python ./subconverter/subconverter.py
+ + python ./subconverter/subconverter.py
 2. Done
