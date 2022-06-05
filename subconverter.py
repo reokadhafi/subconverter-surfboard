@@ -26,7 +26,7 @@ def real_path(file_name):
 	return os.path.dirname(os.path.abspath(__file__)) + file_name
 
 def akunvmess():
-    op_file_conf = open(real_path('/SURFBOARD.conf'), 'w', encoding='utf-8')
+    op_file_conf = open(('/storage/emulated/0/SURFBOARD.conf'), 'w', encoding='utf-8')
     print('\33[94m' + banner + '\33[0m')
     print("Script Auto Genarate Config Surfboard")
     print('''\33[90mcatatan: 
