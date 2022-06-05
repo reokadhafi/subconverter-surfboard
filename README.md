@@ -1,7 +1,8 @@
-# subconverter
+# Subconverter
 Script Subconverter untuk Generate Config Surfboard
++ Generate Config Vmess WS port 80
 
-# Persiapan pada app termux
+# Install
 1. Pastikan app Termux sudah terinstall
 2. Buka Termux Ketik:
    + pkg update -y && pkg upgrade
