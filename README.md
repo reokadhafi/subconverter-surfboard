@@ -8,10 +8,9 @@ Script Subconverter untuk Generate Config Surfboard
    + enter
    + git clone https://github.com/reokadhafi/subconverter/blob/main/subconverter.py
    + enter
-3. install python di termux, jika sudah install lewati langkah ini
-   + buka termux ketik: install python
+3. install python di termux ketik:
+   + apt install python
    + enter
-   + Tunggu hingga selesai
 
 Jika tahap persiapan sudah beres selanjutnya jalankan subconverternya
 # Tutorial Penggunaan
