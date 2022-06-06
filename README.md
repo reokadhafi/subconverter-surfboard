@@ -1,5 +1,6 @@
 # Subconverter
-Script Subconverter untuk Config app Surfboard
+Script Subconverter Config app Surfboard
+
 Fitur:
 + Auto Generate Config Surfboard mode Vmess WS port 80
 + Gamemax Tsel
