@@ -1,5 +1,8 @@
 # Subconverter
-Script Subconverter untuk Generate Config Surfboard
+Script Subconverter untuk Config app Surfboard
+Fitur:
++ Auto Generate Config Surfboard mode Vmess WS port 80
++ Gamemax Tsel
 
 # Install
 1. Pastikan app Termux sudah terinstall
