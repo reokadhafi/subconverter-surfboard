@@ -33,10 +33,12 @@ def akunvmess():
     print('\33[94m' + banner + '\33[0m')
     print("Script Auto Genarate Config Surfboard")
     print('''\33[90mcatatan: 
-    Masukkan akun vmess di bawah lalu enter
-    Jika akun vmess lebih dari 1 maka pisahkan dengan tanda (;) tanpa spasi
-    Config tersimpan dalam file SURFBOARD.conf
-    atau dapat copas langsung dari layar termux mulai dari [General] sampe FINAL\33[0m\n''')
++ Masukkan akun vmess di bawah
++ Jika akun vmess lebih dari 1 maka
+  pisahkan dengan tanda (;) tanpa spasi
++ Config tersimpan dalam file SURFBOARD.conf
++ atau dapat copas langsung dari layar termux
+  mulai dari [General] sampe FINAL\33[0m\n''')
     file = input('\n\33[92mCopy akun vmess disini \33[0m=>> ')
     datacopas = file.split(';')
     print("\n\n\33[92m--------------[PROSESS GENERATE CONFIG]--------------\33[0m\n")
